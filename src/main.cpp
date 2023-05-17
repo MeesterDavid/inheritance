@@ -2,10 +2,6 @@
 #include "include/city.hpp"
 #include "include/road.hpp"
 #include "include/railroad.hpp"
-
-
-
-
 int main(){
 
 
